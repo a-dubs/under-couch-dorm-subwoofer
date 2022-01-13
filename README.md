@@ -1,13 +1,21 @@
-# Boilerplate for Projects on GitHub
+# Subwoofer 
 
-This is the boilerplate for all my personal projects on GitHub. (This is the brief description for this repository)
+Creating an low-profile dual chamber MDF subwoofer enclosure powered by dual 12" drivers and a car subwoofer amplifier   
 
 <br>
 
 ## Summary
- - This is the template boilerplate repository for all personal projects that I have on my GitHub. 
- - This template will expedite the creation and maintenance of all my various projects' repositories.
- - And more importantly, the standardized format will allow for auto parsing of the repository by a python script to automatically update my personal portfolio website.  
+ - Built a fully custom low-profile, dual chamber, sealed subwoofer enclosure designed specifically to fit under the couch in my dorm room
+ - Used all car subwoofer components for better customizability, compactness, power, and cost effectiveness than traditional home theatre subwoofers
+ - Constructed of one 4'x8' sheet of 3/4" MDF, held together by wood glue and wood screws, with 2x2s in each corner of the champers for reinforcement
+ - Speakers are driven by a car mono amplifier that can deliver 400W max @ 2ohms, which is powered by two 15A 12V (300W) DC power supplies which convert the AC current from the wall into 12v DC which is required by car audio components
+ - Designed specifically to fit underneath the couch in my dorm, the enclosure measures a mere 8" tall
+   - Despite the extreme height restriction, each chamber provides the recommended ~1.1 sq ft internal volume per driver
+ - Sporting two Skar Audio 12" VD12 DVC shallow mount subwoofers, convservatively rated for 500W RMS a piece
+   - They are 2ohm DVC (Dual Voice Coil) subwoofers, so the voice coils are wired in series to give each driver a net resistance of 4ohm
+   - Then the two drivers are in turn wired in parallel to create a net 2ohm resistance for the whole circuit, the minimum resistance the amplifier can handle, thus maximizing its power output
+ - The two 12" upward firing drivers, located mere inches below the listener seated on the couch create an otherwordly, immersive listening experience. Additionally, the subwoofers move enough air to make the couch vibrate and shake, making movie watching an absolute blast
+   - Since the listener is at most a few feet from the subwoofer, almost no volume is required, minimizing the chances of disturbing our neighbors
 
 <br>
 
@@ -15,12 +23,21 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 
 ### Placeholder Image (This is the image's caption/label)
 ![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please_replace_me_I_am_begging_you.jpg)
+
+<br>
+
+## Future Upgrades
+ - Paint MDF Box
+ - Use laser cutter to engrave designs into thin MDF sheet to create a cool face-plate for front side of subwoofer box
+ - Purchase a proper amplifier that can commfortably deliver 1000W RMS to allow for full utilization of the subwoofers
+   - Buy 2 more 300W 12v DC power supplies to ensure the new amp can be properly powered
+ - Build custom enclosure for amplifier and DC power supplies so they are protected (and not so ugly)
+
 <br>
 
 ## Project Metadata
 
-**Project Status** : (Active, Inactive, Archived)  
-**Project Progress** : (Concept, In Progress, Functional, Complete)
-
-**Project dates** : Jan '22 - Present  
+**Project Status** : Archived   
+**Project Progress** : Complete   
+**Project dates** : Sep' 20   
 

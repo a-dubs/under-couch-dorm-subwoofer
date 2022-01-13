@@ -21,8 +21,43 @@ Creating an low-profile dual chamber MDF subwoofer enclosure powered by dual 12"
 
 ## Image Gallery
 
-### Placeholder Image (This is the image's caption/label)
-![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please_replace_me_I_am_begging_you.jpg)
+### The Two 12" Subwoofers
+![close up view of both the 12 inch subwoofers](https://github.com/a-dubs/under-couch-dorm-subwoofer/blob/master/image_gallery/sub_top_angle_view.jpg)
+
+<br>
+
+### The Subwoofer Enclosure - Top View
+![top view of entire subwoofer enclosure](https://github.com/a-dubs/under-couch-dorm-subwoofer/blob/master/image_gallery/sub_top_view.jpg)
+
+<br>
+
+### Subwoofer Under the Couch
+![subwoofer under the couch](https://github.com/a-dubs/under-couch-dorm-subwoofer/blob/master/image_gallery/sub_under_couch_side_angle_view.jpg)
+
+<br>
+
+### Subwoofer Under the Couch - Front View
+![subwoofer under the couch - front view](https://github.com/a-dubs/under-couch-dorm-subwoofer/blob/master/image_gallery/sub_under_couch_front_view.jpg)
+
+<br>
+
+### Clearance Between Subwoofer and Couch 
+![clearance between subwoofer and couch close up](https://github.com/a-dubs/under-couch-dorm-subwoofer/blob/master/image_gallery/sub_under_couch_clearance.jpg)
+
+<br>
+
+### The Amp & Power Supply Setup
+![amp and power supply](https://github.com/a-dubs/under-couch-dorm-subwoofer/blob/master/image_gallery/amp_side_angle_iew.jpg)
+
+<br>
+
+### Front of Amp Setup Close-Up 
+![close up front view of amp setup](https://github.com/a-dubs/under-couch-dorm-subwoofer/blob/master/image_gallery/amp_front_view.jpg)
+
+<br>
+
+### Amp Setup - Top View 
+![top view of amp setup](https://github.com/a-dubs/under-couch-dorm-subwoofer/blob/master/image_gallery/amp_top_view.jpg)
 
 <br>
 

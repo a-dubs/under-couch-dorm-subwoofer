@@ -9,8 +9,9 @@ Creating a fully custom low-profile dual chamber MDF subwoofer enclosure powered
  - Used all car subwoofer components for better customizability, compactness, power, and cost effectiveness than traditional home theatre subwoofers
  - Constructed of one 4'x8' sheet of 3/4" MDF, held together by wood glue and wood screws, with 2x2s in each corner of the champers for reinforcement
  - Speakers are driven by a car mono amplifier that can deliver 400W max @ 2ohms, which is powered by two 15A 12V (300W) DC power supplies which convert the AC current from the wall into 12v DC which is required by car audio components
- - Designed specifically to fit underneath the couch in my dorm, the enclosure measures a mere 8" tall
-   - Despite the extreme height restriction, each chamber provides the recommended ~1.1 sq ft internal volume per driver
+ - Designed specifically to fit underneath the couch in my dorm, the enclosure measures a mere 7.5" tall, then a humble 9" tall - even with the subwoofers installed
+   - Despite the extreme height restriction, each chamber provides the recommended ~1.2 square feet of internal volume per driver 
+   - Outer dimensions of the enclosure: 36" x 24" x 7.5"
  - Sporting two Skar Audio 12" VD12 DVC shallow mount subwoofers, convservatively rated for 500W RMS a piece
    - They are 2ohm DVC (Dual Voice Coil) subwoofers, so the voice coils are wired in series to give each driver a net resistance of 4ohm
    - Then the two drivers are in turn wired in parallel to create a net 2ohm resistance for the whole circuit, the minimum resistance the amplifier can handle, thus maximizing its power output

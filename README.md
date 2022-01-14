@@ -1,6 +1,6 @@
-# Subwoofer 
+# Custom Under-Couch Subwoofer Enclosure
 
-Creating an low-profile dual chamber MDF subwoofer enclosure powered by dual 12" drivers and a car subwoofer amplifier   
+Creating a fully custom low-profile dual chamber MDF subwoofer enclosure powered by dual 12" drivers and a car subwoofer amplifier   
 
 <br>
 
